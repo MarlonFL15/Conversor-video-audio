@@ -9,7 +9,7 @@ Para usar o programa, primeiramente clone o projeto e entre no diretório:
     $ git clone https://github.com/MarlonFL15/Conversor-video-audio.git
     $ cd Conversor-video-audio
     
-Você também precisa ter baixado o módulo `moviepy`: 
+Você também precisa baixar o módulo `moviepy`: 
 
     $ pip install moviepy
     
